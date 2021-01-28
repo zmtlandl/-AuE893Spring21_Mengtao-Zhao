@@ -1,5 +1,3 @@
-This a privite repository for AuE893Spring21_Mengtao Zhao
-
 circle.py build a the Turtlesim move in a circle
 picture shows in circle.png
 video shows in circle.webm
