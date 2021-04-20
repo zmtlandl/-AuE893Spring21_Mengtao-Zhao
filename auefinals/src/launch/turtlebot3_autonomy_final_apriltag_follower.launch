@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg="auefinals" type="task4_Apriltag_follower_rw.py" name="Apriltags_follower"/>
+
+</launch>
+
+
+
+

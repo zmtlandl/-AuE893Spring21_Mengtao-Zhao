@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg="auefinals" type="task1&2.py" name="task1&2"/>
+
+</launch>
+
+
+
+

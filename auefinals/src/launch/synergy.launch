@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="auefinals" type="try_2.py" name="synergy"/>
+
+</launch>
