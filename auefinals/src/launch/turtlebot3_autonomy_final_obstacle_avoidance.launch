@@ -1,8 +1,0 @@
-<launch>
-
-  <node pkg="auefinals" type="task2_obstacleavoidance.py" name="obstacle_avoidance"/>
-
-</launch>
-
-
-

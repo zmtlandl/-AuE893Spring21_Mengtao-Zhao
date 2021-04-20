@@ -1,8 +1,0 @@
-<launch>
-
-  <node pkg="auefinals" type="task3_linefollower.py" name="line_follower"/>
-
-</launch>
-
-
-
